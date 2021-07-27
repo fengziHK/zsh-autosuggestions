@@ -1,7 +1,8 @@
-chsh -s /bin/zsh
-cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
-git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
-vim ~/.zshrc
-plugins=(git zsh-autosuggestions)
+chsh -s /bin/zsh </p>
 
-source ~/.zshrc
+cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc </p>
+git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions </p>
+vim ~/.zshrc </p>
+plugins=(git zsh-autosuggestions) </p>
+
+source ~/.zshrc</p>
